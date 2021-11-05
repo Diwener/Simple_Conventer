@@ -2,11 +2,11 @@
 It is simple currency conventer
 
 
-let ~your input 1~ = .... ,
-    ~your input 2~ = ... ;
+let your input 1 = ... ,
+    your input 2 = ... ;
     
 addEvList('...', fun() {
-      let = new ....;
+      let = new ...;
       
       // methods for get some informations
       request ...
